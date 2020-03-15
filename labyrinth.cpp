@@ -1,4 +1,5 @@
 #include<stdio.h>
+#pragma warning(disable:4996)
 int a;
 int walk=0,t=0,min=0;
 int b[10][10],x[10][10];
